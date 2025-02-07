@@ -1,0 +1,43 @@
+Name: Muhammad Adil Fayyaz
+USC ID: 4685210691
+News site crawled: latimes
+Number of threads: 7
+
+Fetch Statistics
+====================
+# fetches attempted: 19993
+# fetches succeeded: 19559
+# fetches failed or aborted: 434
+
+Outgoing URLs:
+====================
+Total URLs extracted: 3795209
+# unique URLs extracted: 431043
+# unique URLs within News Site: 210323
+# unique URLs outside News Site: 220720
+
+Status Codes:
+====================
+0 Unknown Status Code: 4
+307 Temporary Redirect: 63
+404 Not Found: 66
+200 OK: 19559
+301 Moved Permanently: 238
+302 Found: 63
+
+File Sizes:
+====================
+< 1KB: 55
+1KB ~ <10KB: 369
+10KB ~ <100KB: 770
+100KB ~ <1MB: 17473
+≥ 1MB: 117
+
+Content Types:
+====================
+image/png: 290
+text/html: 17912
+image/jpeg: 208
+image/x-icon: 1
+image/svg+xml: 348
+image/webp: 25
